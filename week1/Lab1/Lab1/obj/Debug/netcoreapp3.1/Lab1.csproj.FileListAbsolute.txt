@@ -1,0 +1,12 @@
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+/Users/hsuanhuang/Documents/GitHub/DotNetProgrammingUsingCSharp/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache

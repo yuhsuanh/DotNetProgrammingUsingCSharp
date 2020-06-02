@@ -1,0 +1,7 @@
+C:\Users\happy\Documents\Visual Studio Projects\Comp1098Week2\ConsoleAppLab1\bin\Debug\ConsoleAppLab1.exe.config
+C:\Users\happy\Documents\Visual Studio Projects\Comp1098Week2\ConsoleAppLab1\bin\Debug\ConsoleAppLab1.exe
+C:\Users\happy\Documents\Visual Studio Projects\Comp1098Week2\ConsoleAppLab1\bin\Debug\ConsoleAppLab1.pdb
+C:\Users\happy\Documents\Visual Studio Projects\Comp1098Week2\ConsoleAppLab1\obj\Debug\ConsoleAppLab1.csprojAssemblyReference.cache
+C:\Users\happy\Documents\Visual Studio Projects\Comp1098Week2\ConsoleAppLab1\obj\Debug\ConsoleAppLab1.csproj.CoreCompileInputs.cache
+C:\Users\happy\Documents\Visual Studio Projects\Comp1098Week2\ConsoleAppLab1\obj\Debug\ConsoleAppLab1.exe
+C:\Users\happy\Documents\Visual Studio Projects\Comp1098Week2\ConsoleAppLab1\obj\Debug\ConsoleAppLab1.pdb
