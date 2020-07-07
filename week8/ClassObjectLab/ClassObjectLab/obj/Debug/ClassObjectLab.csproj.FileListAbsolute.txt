@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\ClassObjectLab\ClassObjectLab\obj\Debug\ClassObjectLab.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\ClassObjectLab\ClassObjectLab\obj\Debug\ClassObjectLab.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ClassObjectLab\ClassObjectLab\bin\Debug\ClassObjectLab.exe.config
+C:\Users\Owner\source\repos\ClassObjectLab\ClassObjectLab\bin\Debug\ClassObjectLab.exe
+C:\Users\Owner\source\repos\ClassObjectLab\ClassObjectLab\bin\Debug\ClassObjectLab.pdb
+C:\Users\Owner\source\repos\ClassObjectLab\ClassObjectLab\obj\Debug\ClassObjectLab.exe
+C:\Users\Owner\source\repos\ClassObjectLab\ClassObjectLab\obj\Debug\ClassObjectLab.pdb
+C:\Users\Kli\Documents\LearningProjects\ClassObjectLab-2\ClassObjectLab\ClassObjectLab\bin\Debug\ClassObjectLab.exe.config
+C:\Users\Kli\Documents\LearningProjects\ClassObjectLab-2\ClassObjectLab\ClassObjectLab\bin\Debug\ClassObjectLab.exe
+C:\Users\Kli\Documents\LearningProjects\ClassObjectLab-2\ClassObjectLab\ClassObjectLab\bin\Debug\ClassObjectLab.pdb
+C:\Users\Kli\Documents\LearningProjects\ClassObjectLab-2\ClassObjectLab\ClassObjectLab\obj\Debug\ClassObjectLab.csprojResolveAssemblyReference.cache
+C:\Users\Kli\Documents\LearningProjects\ClassObjectLab-2\ClassObjectLab\ClassObjectLab\obj\Debug\ClassObjectLab.csproj.CoreCompileInputs.cache
+C:\Users\Kli\Documents\LearningProjects\ClassObjectLab-2\ClassObjectLab\ClassObjectLab\obj\Debug\ClassObjectLab.exe
+C:\Users\Kli\Documents\LearningProjects\ClassObjectLab-2\ClassObjectLab\ClassObjectLab\obj\Debug\ClassObjectLab.pdb
