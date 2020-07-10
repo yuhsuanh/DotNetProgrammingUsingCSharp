@@ -1,0 +1,10 @@
+C:\Users\happy\source\repos\assignment4\assignment4\bin\Debug\assignment4.exe.config
+C:\Users\happy\source\repos\assignment4\assignment4\bin\Debug\assignment4.exe
+C:\Users\happy\source\repos\assignment4\assignment4\bin\Debug\assignment4.pdb
+C:\Users\happy\source\repos\assignment4\assignment4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\happy\source\repos\assignment4\assignment4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\happy\source\repos\assignment4\assignment4\obj\Debug\assignment4.csprojAssemblyReference.cache
+C:\Users\happy\source\repos\assignment4\assignment4\obj\Debug\assignment4.csproj.CoreCompileInputs.cache
+C:\Users\happy\source\repos\assignment4\assignment4\obj\Debug\assignment4.csproj.CopyComplete
+C:\Users\happy\source\repos\assignment4\assignment4\obj\Debug\assignment4.exe
+C:\Users\happy\source\repos\assignment4\assignment4\obj\Debug\assignment4.pdb
