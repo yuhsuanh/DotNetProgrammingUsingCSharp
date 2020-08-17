@@ -1,0 +1,53 @@
+﻿@model IEnumerable<UsedVehicleSystem.Models.Make>
+
+@{
+    ViewBag.Title = "Make Listing";
+}
+
+<h2>Make Listing</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", new { area = "" }, new { @class = "btn btn-primary" })
+</p>
+<table id="dataTable" class="table table-bordered" style="width:100%">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                Create Date
+            </th>
+            <th>
+                Edit Date
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+    <tr class="clickable-row" data-href="/Makes/Details/@item.MakeId">
+        <td>
+            @Html.DisplayFor(modelItem => item.MakeId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreateDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EditDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MakeId }, new { @class = "btn btn-secondary" }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MakeId }, new { @class = "btn btn-danger" })
+        </td>
+    </tr>
+}
+</tbody>
+
+</table>
